@@ -2,9 +2,7 @@
 
 iOS 10/11/12 NOOTA: [Download](https://raw.githubusercontent.com/Jwhite077/NOOTA/master/tvOS_12_Beta_Profile.mobileconfig)
 
-Just click the download link above and follow the directions! 
-
-THERE HAVE BEEN CHANGES IN IOS 12.1.1 ON HOW PROFILES ARE INSTALLED! We will provide the new instructions upon release assuming this isn't just a beta thing. Of course, we will keep the old method up there. Maybe will find a work around. Not sure, just thinking on it.
+Just click the download link above and follow the directions!
 
 ***Apple Developer Beta Profiles can be found [here](https://github.com/Jwhite077/Apple-Development-Profiles)!***
 
